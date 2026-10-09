@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "cron": "^4.4.0",
+    "mongoose": "^9.11.1",
     "nodemailer": "^10.0.16"
   }
 }
