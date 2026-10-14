@@ -17,3 +17,14 @@ PROD=false
 ```
 
 3. Ejecutar el comando `pnpm i `
+4. Levantar las BD con el comando
+
+```
+docker compose up -d
+```
+
+5. Ejecutar `pnpm run dev`
+
+## Obtener Gmail Key
+
+[Google AppPasswprds](http://myaccount.google.com/u/0/apppasswords)
