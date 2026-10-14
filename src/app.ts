@@ -12,7 +12,5 @@ async function main() {
     dbName: envs.MONOGO_DB_NAME,
   });
 
-
-
   Server.start();
 }
